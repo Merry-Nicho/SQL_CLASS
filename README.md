@@ -7,5 +7,4 @@ SELECT *
 FROM Customers;
 ```
 
-
-####![SQL SELECT Statement Result](./SQL_SELECT_QUERY)
+![SQL SELECT Statement Result](./SQL_SELECT_QUERY.png)
