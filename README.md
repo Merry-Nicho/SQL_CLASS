@@ -6,3 +6,6 @@ My SQL Class Folder
 SELECT *
 FROM Customers;
 ```
+
+
+####![SQL SELECT Statement Result](./SQL_SELECT_QUERY)
